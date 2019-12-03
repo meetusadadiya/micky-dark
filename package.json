@@ -2,8 +2,11 @@
 	"name": "micky-dark",
 	"displayName": "micky-dark",
 	"description": "no desc",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "Micky",
+	"repository": {
+		"url": "https://github.com/meetusadadiya/micky-dark.git"
+	},
 	"engines": {
 		"vscode": "^1.40.0"
 	},
