@@ -1,0 +1,22 @@
+{
+	"name": "micky-dark",
+	"displayName": "micky-dark",
+	"description": "no desc",
+	"version": "0.0.1",
+	"publisher": "Micky",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Micky Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Micky Dark-color-theme.json"
+			}
+		]
+	}
+}
