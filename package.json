@@ -2,7 +2,7 @@
 	"name": "micky-dark",
 	"displayName": "micky-dark",
 	"description": "no desc",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"publisher": "Micky",
 	"repository": {
 		"url": "https://github.com/meetusadadiya/micky-dark.git"
@@ -18,7 +18,12 @@
 			{
 				"label": "Micky Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Micky Dark-color-theme.json"
+				"path": "./themes/micky-dark-color-theme.json"
+			},
+			{
+				"label": "Micky Dark Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/micky-dark-black-color-theme.json"
 			}
 		]
 	}
