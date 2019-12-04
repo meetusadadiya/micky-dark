@@ -1,13 +1,17 @@
 # Change Log
 
-### v0.0.1
+### v0.2.0
 
-Initial Release
+Added New Two Varients with low contrast
+
+### v0.1.0
+
+Added Black Edition
 
 ### v0.0.2
 
 Solved Menu Text Color
 
-### v0.1.0
+### v0.0.1
 
-Added Black Edition
+Initial Release
